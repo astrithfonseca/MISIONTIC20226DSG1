@@ -1,0 +1,12 @@
+C:\Torneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net5.0\Torneo.App.Dominio.csproj.AssemblyReference.cache
+C:\Torneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net5.0\Torneo.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Torneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net5.0\Torneo.App.Dominio.AssemblyInfoInputs.cache
+C:\Torneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net5.0\Torneo.App.Dominio.AssemblyInfo.cs
+C:\Torneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net5.0\Torneo.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Torneo\Torneo.App\Torneo.App.Dominio\bin\Debug\net5.0\Torneo.App.Dominio.deps.json
+C:\Torneo\Torneo.App\Torneo.App.Dominio\bin\Debug\net5.0\Torneo.App.Dominio.dll
+C:\Torneo\Torneo.App\Torneo.App.Dominio\bin\Debug\net5.0\ref\Torneo.App.Dominio.dll
+C:\Torneo\Torneo.App\Torneo.App.Dominio\bin\Debug\net5.0\Torneo.App.Dominio.pdb
+C:\Torneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net5.0\Torneo.App.Dominio.dll
+C:\Torneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net5.0\ref\Torneo.App.Dominio.dll
+C:\Torneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net5.0\Torneo.App.Dominio.pdb
